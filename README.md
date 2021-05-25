@@ -1,1 +1,1 @@
-# Big-Data
+CS 6350 Assignments
